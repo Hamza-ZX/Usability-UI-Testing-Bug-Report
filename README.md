@@ -1,7 +1,7 @@
 # UI Testing Report – Viewport Inc. Website
 
 ## Overview  
-This document outlines the results of a user interface (UI) review of the Viewport Inc. website (https://viewportinc.com/). The focus is on **usability and responsiveness**—making sure the site works smoothly across mobile, tablet, and desktop screens, and that users can navigate without friction.
+This document outlines the results of a user interface (UI) review of the Viewport Inc. website (https://viewportinc.com/). The focus is on **usability and responsiveness** making sure the site works smoothly across mobile, tablet, and desktop screens, and that users can navigate without friction.
 
 ---
 
