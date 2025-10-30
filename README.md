@@ -11,7 +11,7 @@ This document outlines the results of a user interface (UI) review of the Viewpo
 - Buttons and links sometimes have low contrast, making them harder to read under bright light or for users with vision impairments.  
 - The content hierarchy in some sections needs clearer visual distinction (for example, headings vs. body text).  
 - Form fields are not always clearly labeled or aligned, which may confuse users when submitting information.  
-- On some pages, the spacing between interactive elements is narrower than ideal—this could cause mis-clicks, especially on touch devices.
+- On some pages, the spacing between interactive elements is narrower than ideal this could cause mis-clicks, especially on touch devices.
 
 ### 2. Mobile & Tablet Responsiveness  
 - The layout adapts to smaller screens, but some elements (like images and text blocks) become too compact, reducing readability.  
